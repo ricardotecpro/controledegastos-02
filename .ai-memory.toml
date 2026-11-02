@@ -1,0 +1,3 @@
+workspace = "default"
+project = "controledegastos-02"
+project_strategy = "repo-root"
